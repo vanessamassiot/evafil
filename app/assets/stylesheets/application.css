@@ -22,7 +22,8 @@ body {
 .banner {
   background-size: cover;
   background-position: center;
-  background-image: url("logo evafil.png");
+  /*background-image: url("logo_evafil.png");*/
+  background-image : cl_image_tag("bl1fhydneu1cnsm41caq")
   background-attachment: fixed;
   background-size: 80%;
   width: 100%;
